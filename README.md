@@ -11,7 +11,7 @@ Apache Jmeter: 2.10
 Ammo: 1.8Gb, 5000000 requests, ~350 bytes per request
 Gzip Ammo: Previous ammo, but gzipped. 700Mb
 
-{% img https://docs.google.com/spreadsheet/oimg?key=0Au50JydZm7UjdFdjZmRMblo2TVBwNVRwZ2Mza0lva0E&oid=1&zx=o6heuxt2z4bw %}
+![performance](https://docs.google.com/spreadsheet/oimg?key=0Au50JydZm7UjdFdjZmRMblo2TVBwNVRwZ2Mza0lva0E&oid=1&zx=o6heuxt2z4bw)
 
 [google doc table](https://docs.google.com/spreadsheet/ccc?key=0Au50JydZm7UjdFdjZmRMblo2TVBwNVRwZ2Mza0lva0E&usp=sharing)
 
